@@ -8,7 +8,7 @@ export class ClassComponent implements OnInit {
 
   alerta: string = "alert-danger";
 
-  propiedades: Object = {
+  propiedades: any = {
     danger: true
   };
 
